@@ -1,3 +1,4 @@
+============ DISCORD: https://discord.gg/hZ4XkUzTYs ============
 # vrp_vending
 Vending Machine
 
